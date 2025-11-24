@@ -58,8 +58,8 @@ We believe in building solutions that make sense for your scale and budget. That
 
 Interested in working together? Let's talk about your project.
 
-📧 **Email**: [info@s3techinnovations.com]  
-🌐 **Website**: [s3techinnovations.com]  
+📧 **Email**: [info@s3techinnovations.com](info@s3techinnovations.com)  
+🌐 **Website**: [https://www.s3techinnovations.com](https://www.s3techinnovations.com)  
 📍 **Location**: Ann Arbor, Michigan, USA
 
 ---
